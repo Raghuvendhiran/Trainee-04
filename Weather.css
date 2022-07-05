@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(42, 78, 105);
+  font-family: "lato", sans-serif;
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: rgba(13, 109, 253, 0);
+}
+
+.flag {
+  height: 160px;
+  width: 100%;
+}
+
+.card.border {
+  height: 93%;
+  background-color: rgba(146, 136, 94, 0.788);
+  background-size: contain;
+  background-size: auto;
+}
